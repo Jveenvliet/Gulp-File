@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "name": "packages",
+  "description": "Packages for travel website",
+  "author": "Jordi Veenvliet",
+  "dependencies": {
+    "gulp": "~3.8.11",
+    "gulp-sass": "~1.3.3",
+    "gulp-sourcemaps": "~1.5.1",
+    "gulp-minify-css": "~1.0.0",
+    "gulp-uglify": "~1.2.0",
+    "gulp-concat": "~2.5.2",
+    "gulp-rename": "~1.2.2",
+    "del": "^1.1.1",
+    "susy":"~2.2.2"
+
+  }
+}
